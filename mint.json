@@ -51,7 +51,7 @@
   "navigation": [
     {
       "group": "Calcio d'inizio", 
-      "pages": ["introduction", "quickstart", "development"]
+      "pages": ["introduction", "quickstart", "development","pag4"]
     },
     {
       "group": "Essentials",
