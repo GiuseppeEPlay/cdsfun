@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Calcio d'inizio", //ex Get Started
+      "group": "Calcio d'inizio", 
       "pages": ["introduction", "quickstart", "development"]
     },
     {
