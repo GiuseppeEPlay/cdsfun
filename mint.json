@@ -1,61 +1,59 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "CorriereDelloSport.FUN",
+  "name": "Starter Kit",
   "logo": {
-    "dark": "/images/logo_cds.png",
-    "light": "/images/logo_cds.png"
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#E20613",
-    "light": "#FF3F4B",
-    "dark": "#E20613",
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373",
     "anchors": {
-      "from": "#E20613",
-      "to": "#FF3F4B"
+      "from": "#0D9373",
+      "to": "#07C983"
     }
   },
   "topbarLinks": [
     {
-      ///RICORDATI DI SISTEMARE QUESTA SEZIONE
-      "name": "Assistenza",
+      "name": "Support",
       "url": "mailto:hi@mintlify.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Gioco fun",
-    "url": "https://corrieredellosport.fun/home"
+    "name": "Dashboard",
+    "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
     {
-      "name": "Regolamento",
-      "url": "regolamento"
+      "name": "API Reference",
+      "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Pronostici",
+      "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://corrieredellosport.fun/algoritmo-del-gol"
+      "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Classifiche",
-      "icon": "trophy",
-      "url": "https://corrieredellosport.fun/ranking"
+      "name": "Community",
+      "icon": "slack",
+      "url": "https://mintlify.com/community"
     },
     {
-      "name": "News",
+      "name": "Blog",
       "icon": "newspaper",
-      "url": "https://corrieredellosport.fun/news"
+      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
     {
-      "group": "Guida al gioco",
-      "pages": ["Introduzione", "Concorso", "Registrazione"]
+      "group": "Get Started",
+      "pages": ["introduction", "quickstart", "development"]
     },
     {
-      ///RICORDATI DI INSERIRE LE ALTRE SEZIONI QUI
       "group": "Essentials",
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
     },
