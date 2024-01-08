@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "CorriereDelloSport.FUN",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "/images/logo_cds.png",
+    "light": "/images/logo_cds.png"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#E20613",
+    "light": "#FF3F4B",
+    "dark": "#E20613",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#E20613",
+      "to": "#FF3F4B"
     }
   },
   "topbarLinks": [
