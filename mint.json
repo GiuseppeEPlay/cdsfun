@@ -28,14 +28,14 @@
   "tabs": [
     {
       "name": "Regolamento",
-      "url": "main/sezione-regolamento"
+      "url": "sezione-regolamento"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Pronostici",
+      "icon": "lightbulb",
+      "url": "https://corrieredellosport.fun/algoritmo-del-gol"
     },
     {
       "name": "Community",
