@@ -28,7 +28,7 @@
   "tabs": [
     {
       "name": "Regolamento",
-      "url": "sezione-regolamento"
+      "url": "cdsfun/sezione-regolamento"
     }
   ],
   "anchors": [
@@ -38,9 +38,9 @@
       "url": "https://corrieredellosport.fun/algoritmo-del-gol"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "Classifiche",
+      "icon": "trophy",
+      "url": "https://corrieredellosport.fun/ranking"
     },
     {
       "name": "Blog",
