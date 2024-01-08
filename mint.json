@@ -22,13 +22,13 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Gioco fun",
+    "url": "https://corrieredellosport.fun/home"
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "Regolamento",
+      "url": "regolamento"
     }
   ],
   "anchors": [
