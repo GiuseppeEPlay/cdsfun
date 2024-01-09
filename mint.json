@@ -59,7 +59,7 @@
     },
     {
       "group": "Tutti i giochi",
-      "pages": ["tutti-i-giochi/schedine", "tutti-i-giochi/palinsesto"]
+      "pages": ["tutti-i-giochi/schedine", "tutti-i-giochi/palinsesto-sfida", "tutti-i-giochi/faq"]
     },
     {
       "group": "Endpoint Examples",
