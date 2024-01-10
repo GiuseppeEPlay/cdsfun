@@ -54,16 +54,16 @@
   "navigation": [
     {
       "group": "Calcio d'inizio", 
-      "pages": ["introduction", "guida-introduttiva", "completa-il-profilo","personalizza-esperienza"]
-    },
-    {
-      "group": "Essentials",
-      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
+      "pages": ["guida-introduttiva", "completa-il-profilo","personalizza-esperienza",]
     },
     {
       "group": "Tutti i giochi",
       "pages": ["tutti-i-giochi/schedine", "tutti-i-giochi/palinsesto-sfida", "tutti-i-giochi/faq"]
     },
+    {
+      "group": "Registrazione",
+      "pages": ["registrazione/registrazione-e-accesso","registrazione/faq"]
+    }
     {
       "group": "Endpoint Examples",
       "pages": [
