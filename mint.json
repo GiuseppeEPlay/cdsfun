@@ -31,7 +31,7 @@
   "tabs": [
     {
       "name": "Regolamento completo",
-      "url": "regolamento-1/regolamento-completo"
+      "url": "https://mintlify.com/blog"
     }
   ],
   "anchors": [
@@ -63,6 +63,10 @@
     {
       "group": "Registrazione",
       "pages": ["registrazione/registrazione-e-accesso","registrazione/faq"]
+    },
+    {
+      "group": "Crediti di gioco",
+      "pages": ["crediti-di-gioco/gestione-crediti","crediti-di-gioco/faq-crediti"]
     },
     {
       "group": "Endpoint Examples",
