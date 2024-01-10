@@ -54,7 +54,7 @@
   "navigation": [
     {
       "group": "Calcio d'inizio", 
-      "pages": ["guida-introduttiva", "completa-il-profilo","personalizza-esperienza"]
+      "pages": ["guida-introduttiva", "completa-il-profilo","personalizza-esperienza","concorso"]
     },
     {
       "group": "Tutti i giochi",
