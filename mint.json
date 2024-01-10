@@ -63,7 +63,7 @@
     {
       "group": "Registrazione",
       "pages": ["registrazione/registrazione-e-accesso","registrazione/faq"]
-    }
+    },
     {
       "group": "Endpoint Examples",
       "pages": [
