@@ -5,7 +5,7 @@
     "dark": "/images/logo_cds.png",
     "light": "/images/logo_cds.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.jpeg",
   "colors": {
     "primary": "#E20613",
     "light": "#FF3F4B",
@@ -57,24 +57,28 @@
       "pages": ["guida-introduttiva", "completa-il-profilo","personalizza-esperienza","concorso"]
     },
     {
-      "group": "Tutti i giochi",
-      "pages": ["tutti-i-giochi/schedine", "tutti-i-giochi/palinsesto-sfida", "tutti-i-giochi/faq"]
-    },
-    {
       "group": "Registrazione",
       "pages": ["registrazione/registrazione-e-accesso","registrazione/faq"]
+    },
+    {
+      "group": "Tutti i giochi",
+      "pages": ["tutti-i-giochi/schedine", "tutti-i-giochi/palinsesto-sfida", "tutti-i-giochi/faq"]
     },
     {
       "group": "Crediti di gioco",
       "pages": ["crediti-di-gioco/gestione-crediti","crediti-di-gioco/faq-crediti"]
     },
     {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
+      "group": "Scalata status sociale",
+      "pages": ["scalata-status-sociale/status-sociale","scalata-status-sociale/livelli","scalata-status-sociale/punti-schedina-special"]
+    },
+    {
+      "group": "Community",
+      "pages": ["community/entra-nella-community","community/tipster-hot-players"]
+    },
+    {
+      "group": "Premi e conversioni",
+      "pages": ["premi-e-conversioni/conversioni","premi-e-conversioni/premi"]
     }
   ],
   "footerSocials": {
