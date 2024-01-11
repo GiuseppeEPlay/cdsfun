@@ -21,7 +21,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@corriereoolixycom.zendesk.com"
     }
   ],
   "topbarCtaButton": {
@@ -31,7 +31,7 @@
   "tabs": [
     {
       "name": "Regolamento completo",
-      "url": "https://mintlify.com/blog"
+      "url": "https://corrieredellosport.fun/home"
     }
   ],
   "anchors": [
@@ -46,9 +46,9 @@
       "url": "https://corrieredellosport.fun/ranking"
     },
     {
-      "name": "Blog",
+      "name": "News",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://corrieredellosport.fun/news"
     }
   ],
   "navigation": [
@@ -73,6 +73,10 @@
       "pages": ["scalata-status-sociale/status-sociale","scalata-status-sociale/livelli","scalata-status-sociale/punti-schedina-special"]
     },
     {
+      "group": "Gollo predictor",
+      "pages": ["gollo-predictor/gollo-predictor-algoritmo"]
+    },
+    {
       "group": "Community",
       "pages": ["community/entra-nella-community","community/tipster-hot-players"]
     },
@@ -82,8 +86,6 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "instagram": "https://www.instagram.com/corrieredellosportfun/"    
   }
 }
