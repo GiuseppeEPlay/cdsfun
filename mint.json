@@ -16,7 +16,7 @@
     }
   },
   "primaryTab": {
-    "name": "Home"
+    "name": "Guida del gioco"
 },
   "topbarLinks": [
     {
@@ -31,7 +31,7 @@
   "tabs": [
     {
       "name": "Regolamento completo",
-      "url": "https://corrieredellosport.fun/home"
+      "url": "regolamento-1"
     }
   ],
   "anchors": [
